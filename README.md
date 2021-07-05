@@ -9,7 +9,17 @@ Config files for my GitHub profile.
 - This is my second DS/ML project. At the end of this project, **I brought my prediction accuracy to 89%.** The dataset was obtained from Kaggle. The aim of this task was, using the train and test data, predict whether passengers on the Titanic survived. There were different categories such as 'Gender', 'Age', 'Pclass', 'Fare' amount, where they embarked from and more. Using **data cleaning**, I removed categories that had too many missing values or where not relevant and would have made no impact in predicting survival or not. Using the knowledge from my first DS/ML project I was able to fill in missing values within the data. Using **Seaborn and Matplotlib**, I plotted graphs and diagrams that would show me correlations between different possible predictor categories. I then began to model the data. I learned new techniques such as **making a list of all the Machine Learning Algorithms and ranking them.**
 Algorithms such as **RandomForestClassifier, LogisticRegression, Gaussian Naive Bayes, DecisionTreeClassifier, KNeighborsClassifier, SVM and XGBoost.** This project **taught me how to** train and test more models and **make more efficient predictive models.
 ***
+**Iris Classification**
+- This project used Machine Learning techniques to generate the accuracy of the algorithms used. The algorithms used were ones I was familiar with **LogisticRegression and SVM** to name a few. However, I learned more about how to use these algorithms and many more ML process during this mini project. There were no missding values within this dataset and so the emphasis was on creating the models to predict. The dataset contained the length and width of the petals and sepals of different species of flowers. As the target variable (the variable to be predicted) was categoric, the algorithms used needed to be able to reflect that. There were no new algorithms used, but I am now more familiar with how to predict values.
 
+**I was able to get an accuracy score of 98%. I also posted my submission to Kaggle in order to increase my presence on the platform**
+
+
+
+
+
+
+***
 **Random Walks** 
 - Python was used to **generate data** for a random walk, **Matplotlib** was then used to **create a visually appealing representation** of the data. 
 A random walk is a path that has no clear direction but is determined by a series of random decisions, which are left to chance. Random walks have practical applications in nature, physics, biology, chemistry and economics. 
